@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/mb2g-jaxb/pom.xml" />
+        <option value="$PROJECT_DIR$/mb2g-json-schema/pom.xml" />
+        <option value="$PROJECT_DIR$/ex-Lombok/pom.xml" />
+        <option value="$PROJECT_DIR$/ex-Mapstruct/pom.xml" />
+        <option value="$PROJECT_DIR$/ex-Mapstruct-car/pom.xml" />
       </list>
     </option>
   </component>
